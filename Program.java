@@ -10,11 +10,13 @@ import java.util.regex.Pattern;
 
 class Program {
     public static void main(String[] args) {
+        String directory = System.getProperty("user.dir");
+        System.out.println(directory + "/");
 
         ArrayList<String> translations = new ArrayList<>();
         // Get all translations from file and catch err
         try {
-            translations = readFromInputStream(new FileInputStream("translations.ini"));
+            translations = readFromInputStream(new FileInputStream(directory + "/translations.ini"));
         } catch (Exception ex) {
             System.err.println(ex);
         }
