@@ -6,11 +6,11 @@ Just a generic translator that I made while learning Java
 
 ## ToDo's:
 
-[] Base Translator
-[] Multi-Word Translations
-[] Real Multi-Word Translations
-[] GUI Application
-[] Material UI
+- [X] Base Translator
+- [X] Multi-Word Translations
+- [] Real Multi-Word Translations
+- [X] GUI Application
+- [] Material UI
 
 <br>
 (School Project)
