@@ -8,9 +8,9 @@ Just a generic translator that I made while learning Java
 
 - [X] Base Translator
 - [X] Multi-Word Translations
-- [] Real Multi-Word Translations
+- [ ] Real Multi-Word Translations
 - [X] GUI Application
-- [] Material UI
+- [ ] Material UI
 
 <br>
 (School Project)
